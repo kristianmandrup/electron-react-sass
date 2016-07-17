@@ -9,3 +9,6 @@ build
 
 # Packaged app
 bin
+
+# logs
+*.log
